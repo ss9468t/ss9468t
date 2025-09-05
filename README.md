@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Sodiq Shodimu**  
 
-<img src="profile.jpeg" alt="Profile Picture" width="150" style="border-radius:50%"/>
-
 With strong analytical and problem-solving skills, I transform complex data into actionable insights that drive strategic decision-making. I thrive in high-pressure environments, managing multiple projects while maintaining accuracy, efficiency, and deadlines. My expertise spans **data analytics, database management, and cloud systems**, complemented by hands-on experience in the **telecom and IT industries**.  
 
 ---
@@ -74,13 +72,6 @@ With strong analytical and problem-solving skills, I transform complex data into
 - Streamlined **SQL-based reporting**, improving operational efficiency.  
 - Conducted **cybersecurity risk assessments**, reducing breaches by **50%**.  
 </details>  
-
----
-
-## 📊 GitHub Stats (Interactive)  
-
-![Sodiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
 
 ---
 

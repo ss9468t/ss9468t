@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Sodiq Shodimu**  
 
-<img src="https://drive.google.com/file/d/1MOOlp6JjHk3ycIfATilQrXyv-HsKPVfs/view?usp=sharing" alt="Profile Picture" width="150" style="border-radius:50%"/>
+<img src="OlaDP.JPG" alt="Profile Picture" width="150" style="border-radius:50%"/>
 
 With strong analytical and problem-solving skills, I transform complex data into actionable insights that drive strategic decision-making. I thrive in high-pressure environments, managing multiple projects while maintaining accuracy, efficiency, and deadlines. My expertise spans **data analytics, database management, and cloud systems**, complemented by hands-on experience in the **telecom and IT industries**.  
 
